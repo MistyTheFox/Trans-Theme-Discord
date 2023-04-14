@@ -1,0 +1,34 @@
+/**
+ * @name Transgender
+ * @version 8.0
+ * @description A simple but highly customizable theme, now sugar free!
+ * @author Spectra
+ * @invite PZdnCVD
+ * @source https://github.com/xcruxiex/themes
+ * @website https://betterdiscord.app/theme/Neutron
+ * @BDEditor Neutron
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@100;300;400;500;700&display=swap');
+@import url('https://xcruxiex.github.io/themes/themes-cores/neutron8.css');
+
+:root {
+  --backgroundImage: url('https://i.imgur.com/xL2P3kD.jpg');
+  --backgroundColor: #000000;
+  --backgroundSize: cover;
+  --backgroundPosition: center;
+  --backgroundRepeat: no-repeat;
+  --backgroundBlur: 0px;
+  --backgroundOpacity: 0.4;
+  --homeImage: url('https://imgur.com/eItxuAq.png');
+  --homeImageSize: cover;
+  --themeColor1: #EC95FA;
+  --themeColor2: #00BCD4;
+  --customFont: Dancing Script;
+  --backgroundCode: rgb(210,125,239,1);
+  --backgroundName: rgb(0,188,212,1);
+}
+
+/* Any custom CSS below here */
+
+
